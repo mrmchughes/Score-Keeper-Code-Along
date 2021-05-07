@@ -1,1 +1,2 @@
 # Score-Keeper-Code-Along
+A code-along from Colt Steele's Web Dev course. The Javascript is from Colt, and following the videos as Colt wrote and refactored his code was a good learning experience. I chose to split off from Colt for implementing CSS, and instead went with Bootstrap for my CSS framework, as I felt more comfortable with it. The Bootstrap CSS and Custom CSS is my own work, the rounded corners on the card I found tricky to implement alongside the card image.
